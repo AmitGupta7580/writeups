@@ -1,0 +1,25 @@
+title:              Writeups
+email:              amit758000@example.com
+description:        CTF writeups and Walkthrough of vulnerable machines
+author:             Amit Gupta
+baseurl:            "/writeups"
+url:                "http://ammmy.me"
+
+# Social Profiles
+twitter_username:   AmitGup98036159
+github_username:    AmitGupta7580
+facebook_username:  
+instagram_username: 
+linkedin_username:  amit-gupta-7580
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
