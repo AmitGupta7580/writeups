@@ -1,4 +1,4 @@
-# Peronal Blogs
+# Peronal Writeups
 
 <a href="http://ammmy.me/writeups">My Personal Writeups</a>
 
