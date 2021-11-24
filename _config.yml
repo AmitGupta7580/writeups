@@ -2,8 +2,8 @@ title:              Writeups
 email:              amit758000@example.com
 description:        CTF writeups and Walkthrough of vulnerable machines
 author:             Amit Gupta
-baseurl:            "/writeups"
-url:                "http://ammmy.me"
+baseurl:            "/"
+url:                "http://writeups.ammmy.me"
 
 # Social Profiles
 twitter_username:   AmitGup98036159
